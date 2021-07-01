@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eczane Yönetim Sistemi", "Eczane Yönetim Sistemi.csproj", "{01AAB5EF-A83E-4111-A06A-103BAEF19E17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AAB5EF-A83E-4111-A06A-103BAEF19E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AAB5EF-A83E-4111-A06A-103BAEF19E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AAB5EF-A83E-4111-A06A-103BAEF19E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AAB5EF-A83E-4111-A06A-103BAEF19E17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEEC9366-A425-4EEF-B35B-A5140B5EF00C}
+	EndGlobalSection
+EndGlobal
